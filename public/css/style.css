@@ -1,0 +1,16 @@
+.ordered-item {
+    width: 25%;
+}
+
+#flashMsg {
+    bottom: 20px;
+    right: 10px;
+    position: fixed;
+    z-index: 9999;
+    padding: 10px;
+    text-align: center;
+}
+
+.hide {
+    display: none;
+}
